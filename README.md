@@ -11,3 +11,4 @@ Before coming to the class, make sure you:
 2. create a Google Colab account, if you already have a Google account, then it should just link to it. 
 3. put the `cuda-pp` code in your Google drive, and the `.ipynb` file within `cuda-pp` in your Colab folder
 4. for Windows users, install a unix shell, so you can log into the HPC. 
+5. the login to the HPC is your SCEM/CDMS account, so make sure you know what it is. If you've forgotten, then log a call to IT. 
